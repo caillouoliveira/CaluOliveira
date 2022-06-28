@@ -11,7 +11,7 @@ I'm just a dreamy kid learning to code.
 
 🎯 Focusing on being a better person, achieving my dreams and learning other languages.
 
-❤️ You can contact me at 💌calu.oliveira@icloud.com
+❤️ You can contact me by 💌calu.oliveira@icloud.com
 
 
 ### Quem sou eu? 
