@@ -33,6 +33,6 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 
 <a href="https://www.linkedin.com/in/caluoliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
-<a href="http://lattes.cnpq.br/4151235037987708"><img src="http://www.labi.ufscar.br/wp-content/uploads/2016/06/logo-cnpq-labi-ufscar-1.jpg"></img></a>
+<a href="http://lattes.cnpq.br/4151235037987708"><img src="http://www.labi.ufscar.br/wp-content/uploads/2016/06/logo-cnpq-labi-ufscar-1.jpg&logoColor=white"></img></a>
 
 
