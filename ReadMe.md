@@ -31,4 +31,4 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 
 🧐 Você pode descobrir mais sobre minha história, minhas experiências acadêmicas e desafios profissionais clicando em:
 
-<a href="https://www.linkedin.com/in/caluoliveira/"><img src="https://lasse.med.br/logo-cnpq-2/"></img></a>
+<a href="https://www.linkedin.com/in/caluoliveira/"><img src="[https://lasse.med.br/logo-cnpq-2/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></img></a>
