@@ -31,6 +31,6 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 
 🧐 Você pode descobrir mais sobre minha história, minhas experiências acadêmicas e desafios profissionais clicando em:
 
-<a href="https://www.linkedin.com/in/caluoliveira/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=appveyor"></img></a>
+<a href="https://www.linkedin.com/in/caluoliveira/"><img src="https://img.shields.io/badge/bitbucket/issues/:user/:repo
 
 <a href="http://lattes.cnpq.br/4151235037987708"><img src="https://img.shields.io/badge/-Lattes-black?style=for-the-badge&logo=appveyor"></img></a>
