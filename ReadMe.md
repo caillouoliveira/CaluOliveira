@@ -45,7 +45,6 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
     <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caluoliveira&layout=compact&theme=vision-friendly-dark" alt="caluoliveira's most languages"/>
   </a>
 </p>
-<br>
 
 ## 🛠 &nbsp;Tech Stack
 
