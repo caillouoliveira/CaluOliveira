@@ -52,11 +52,11 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <a href="https://github.com/rafaelpradoj">
+  <a href="https://github.com/caluoliveira">
     <img width="530em" src="https://github-readme-stats.vercel.app/api?username=caluoliveira&show_icons=true&theme=vision-friendly-dark" alt="caluoliveira's stats"/>
   </a>
 
-  <a href="https://github.com/rafaelpradoj">
+  <a href="https://github.com/caluoliveira">
     <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caluoliveira&layout=compact&theme=vision-friendly-dark" alt="caluoliveira's most languages"/>
   </a>
 </p>
