@@ -47,7 +47,7 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 </p>
 <br>
 
-**## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -58,5 +58,4 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;
-
-<br>**
+<br>
