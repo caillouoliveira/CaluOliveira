@@ -7,7 +7,7 @@ I'm just a dreamy kid learning to code.
 
 🤩💻 Always admiring learning new skills.
 
-🧑‍🎓 Systems Analysis and Development Student 1/5
+🧑‍🎓 Systems Analysis and Development Student 1/5. Also, I am currently a student of the One - Oracle Next Education program, a partnership between Oracle and Alura Latam.
 
 🎯 Focusing on being a better person, achieving my dreams and learning other languages.
 
@@ -20,7 +20,7 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 
 🤩💻 Sempre admirando o aprendizado de novas habilidades.
 
-🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas 1/5
+🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas 1/5. Além disso, atualmente sou aluno do programa One - Oracle Next Education, uma parceria entre Oracle e Alura Latam.
 
 🎯 Focando em ser uma pessoa melhor, alcançar meus sonhos e aprender outros idiomas.
 
