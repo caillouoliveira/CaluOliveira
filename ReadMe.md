@@ -24,7 +24,7 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 
 🎯 Focando em ser uma pessoa melhor, alcançar meus sonhos e aprender outros idiomas.
 
-❤️ Você pode entrar em contato comigo por 💌calu.oliveira@icloud.com
+💌 Você pode entrar em contato comigo por calu.oliveira@icloud.com
 
 
 ## Quais são minhas experiências ACADÊMICAS e PROFISSIONAIS?
@@ -33,18 +33,6 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 
 <a href="https://www.linkedin.com/in/caluoliveira/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=appveyor"></img></a>
 <a href="http://lattes.cnpq.br/4151235037987708"><img src="https://img.shields.io/badge/-Lattes-black?style=for-the-badge&logo=appveyor"></img></a>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-  <a href="https://github.com/caluoliveira">
-    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=caluoliveira&show_icons=true&theme=vision-friendly-dark" alt="caluoliveira's stats"/>
-  </a>
-
-  <a href="https://github.com/caluoliveira">
-    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caluoliveira&layout=compact&theme=vision-friendly-dark"alt="caluoliveira'smost languages"/>
-  </a>
-</p>
 
 ## 🛠 &nbsp;Tech Stack
 
