@@ -42,7 +42,7 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
   </a>
 
   <a href="https://github.com/caluoliveira">
-    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caluoliveira&layout=compact&theme=vision-friendly-dark" alt="caluoliveira's most languages"/>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caluoliveira&layout=compact&theme=vision-friendly-dark"alt="caluoliveira'smost languages"/>
   </a>
 </p>
 
