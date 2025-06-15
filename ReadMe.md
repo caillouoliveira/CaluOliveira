@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 
 ### Who am I? 
@@ -11,7 +11,7 @@ I'm just a dreamy kid learning to code.
 
 🎯 Focusing on being a better person, achieving my dreams and learning other languages.
 
-❤️ You can contact me by 💌calu.oliveira@icloud.com
+❤️ You can contact me by 💌 caillou.oliveira@icloud.com
 
 
 ### Quem sou eu? 
@@ -24,7 +24,7 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 
 🎯 Focando em ser uma pessoa melhor, alcançar meus sonhos e aprender outros idiomas.
 
-💌 Você pode entrar em contato comigo por calu.oliveira@icloud.com
+💌 Você pode entrar em contato comigo por caillou.oliveira@icloud.com
 
 
 ## Quais são minhas experiências ACADÊMICAS e PROFISSIONAIS?
