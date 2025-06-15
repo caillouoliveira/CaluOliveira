@@ -7,7 +7,7 @@ I'm just a dreamy kid learning to code.
 
 🤩💻 Always admiring learning new skills.
 
-🧑‍🎓 Systems Analysis and Development Student 1/5. Also, I am currently a student of the One - Oracle Next Education program, a partnership between Oracle and Alura Latam.
+🧑‍🎓 Systems Analysis and Development Student 1/5. 
 
 🎯 Focusing on being a better person, achieving my dreams and learning other languages.
 
@@ -20,7 +20,7 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 
 🤩💻 Sempre admirando o aprendizado de novas habilidades.
 
-🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas 1/5. Além disso, atualmente sou aluno do programa One - Oracle Next Education, uma parceria entre Oracle e Alura Latam.
+🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas 1/5.
 
 🎯 Focando em ser uma pessoa melhor, alcançar meus sonhos e aprender outros idiomas.
 
@@ -31,7 +31,7 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 
 🧐 Você pode descobrir mais sobre minha história, minhas experiências acadêmicas e desafios profissionais clicando em:
 
-<a href="https://www.linkedin.com/in/caluoliveira/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=appveyor"></img></a>
+<a href="[https://www.linkedin.com/in/caluoliveira](https://www.linkedin.com/in/caillouoliveira/)/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=appveyor"></img></a>
 <a href="http://lattes.cnpq.br/4151235037987708"><img src="https://img.shields.io/badge/-Lattes-black?style=for-the-badge&logo=appveyor"></img></a>
 
 ## 🛠 &nbsp;Tech Stack
