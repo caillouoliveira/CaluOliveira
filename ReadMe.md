@@ -4,35 +4,20 @@
 ### Who am I? 
 
 I'm just a dreamy kid learning to code.
-
 🤩💻 Always admiring learning new skills.
-
 🧑‍🎓 Systems Analysis and Development Student 1/5. 
-
 🎯 Focusing on being a better person, achieving my dreams and learning other languages.
-
 ❤️ You can contact me by 💌 caillou.oliveira@icloud.com
 
 
 ### Quem sou eu? 
 
 Eu sou apenas um garoto sonhador aprendendo a codificar.
-
 🤩💻 Sempre admirando o aprendizado de novas habilidades.
-
 🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas 1/5.
-
 🎯 Focando em ser uma pessoa melhor, alcançar meus sonhos e aprender outros idiomas.
-
 💌 Você pode entrar em contato comigo por caillou.oliveira@icloud.com
 
-
-## Quais são minhas experiências ACADÊMICAS e PROFISSIONAIS?
-
-🧐 Você pode descobrir mais sobre minha história, minhas experiências acadêmicas e desafios profissionais clicando em:
-
-<a href="https://www.linkedin.com/in/caillouoliveira"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=appveyor"></img></a>
-<a href="http://lattes.cnpq.br/4151235037987708"><img src="https://img.shields.io/badge/-Lattes-black?style=for-the-badge&logo=appveyor"></img></a>
 
 ## Habilidades
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085)
@@ -46,3 +31,11 @@ Eu sou apenas um garoto sonhador aprendendo a codificar.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caillouoliveira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## Linguagens mais usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caillouoliveira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## Quais são minhas experiências ACADÊMICAS e PROFISSIONAIS?
+
+🧐 Você pode descobrir mais sobre minha história, minhas experiências acadêmicas e desafios profissionais clicando em:
+
+<a href="https://www.linkedin.com/in/caillouoliveira"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=appveyor"></img></a>
+<a href="http://lattes.cnpq.br/4151235037987708"><img src="https://img.shields.io/badge/-Lattes-black?style=for-the-badge&logo=appveyor"></img></a>
+
